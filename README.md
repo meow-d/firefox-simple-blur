@@ -13,5 +13,6 @@ A very simple translucent userchrome theme for firefox.
 /* Main window background */
 #main-window {
   background-color: rgba(0,0,0,0.65) !important;
+  ...
 }
 ```
