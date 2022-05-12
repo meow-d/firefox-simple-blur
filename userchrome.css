@@ -1,19 +1,23 @@
-#TabsToolbar, #titlebar, #main-window, #navigator-toolbox, #customization-container, #PersonalToolbar {
-  background-color: transparent !important;
+/* Make most things transparent */
+#TabsToolbar, #titlebar, #main-window, #navigator-toolbox, #customization-container, #PersonalToolbar, #navigator-toolbox-background {
+  background: transparent !important;
+  appearance: none;
   -moz-appearance: none !important;
-  background-image: none !important;
   box-shadow: none !important;
   border: none !important;
 }
 
+/* Main window background */
 #main-window {
   background-color: rgba(0,0,0,0.65) !important;
-  -moz-appearance: none !important;
   background-image: none !important;
+  appearance: none;
+  -moz-appearance: none !important;
   box-shadow: none !important;
   border: none !important;
 }
 
+/* Extra stuff */
 #urlbar {
   background: rgba(0, 0, 0, 0.4);
 }
