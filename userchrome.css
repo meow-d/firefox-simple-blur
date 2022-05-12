@@ -1,0 +1,19 @@
+#TabsToolbar, #titlebar, #main-window, #navigator-toolbox, #customization-container, #PersonalToolbar {
+  background-color: transparent !important;
+  -moz-appearance: none !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+#main-window {
+  background-color: rgba(0,0,0,0.65) !important;
+  -moz-appearance: none !important;
+  background-image: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+#urlbar {
+  background: rgba(0, 0, 0, 0.4);
+}
