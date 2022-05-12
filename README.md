@@ -7,4 +7,4 @@ A very simple translucent userchrome theme for firefox.
 - Turning off native title bar makes background opaque, but I found a workaround on KDE Plasma:
   - `(right click on the native title bar) > More actions > Configure Special Application Settings...`
   - `Add Proprety... > (search for 'active opacity') > (force it to 99%)`
-- if it looks ugly, try changing firefox theme, or make you own using Firefox Color. I'll upload mine someday.
+- Tbh I find css pretty ugly with most themes, So I made my own using Firefox Color. I'll upload mine once I complete it.
