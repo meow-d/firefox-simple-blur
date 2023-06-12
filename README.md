@@ -1,4 +1,4 @@
-# firefox-blur
+# firefox-simple-blur
 A very simple translucent userchrome theme for firefox.
 
 - Tested on Linux (KDE Plasma) only
