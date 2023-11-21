@@ -9,10 +9,10 @@ A very simple translucent userchrome theme for firefox. It literally does not ge
       - `Add Proprety... > (search for 'active opacity') > (force it to 99%)`
       - The window will always be 1% transparent, but it's impossible to notice, especially with blur
 - You can (and should) also customize the main background color:
-```css
-/* Main window background */
-#main-window {
-  background-color: rgba(0,0,0,0.65) !important;
-  ...
-}
-```
+    ```css
+    /* Main window background */
+    #main-window {
+      background-color: rgba(0,0,0,0.65) !important;
+      ...
+    }
+    ```
